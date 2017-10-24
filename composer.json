@@ -1,0 +1,13 @@
+{
+    "name": "dingpanpan/blink-tm-platform",
+    "description": "blink-tars management platform packages",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dpp",
+            "email": "dpp2009@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
