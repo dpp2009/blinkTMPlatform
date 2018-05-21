@@ -38,6 +38,9 @@
         "dist": {
           "url": "https://raw.githubusercontent.com/Tencent/Tars/phptars/php/dist/phptars-tars-deploy-0.1.0.zip?raw=true",
           "type": "zip"
+        },
+        "autoload": {
+            "classmap": ["Tars/deploy/"]
         }
       }
     },
