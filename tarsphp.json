@@ -124,6 +124,12 @@
           "url": "https://raw.githubusercontent.com/Tencent/Tars/phptars/php/dist/phptars-tars-server-0.1.0.zip?raw=true",
           "type": "zip"
         },
+        "require": {
+            "php": ">=5.6",
+            "phptars/tars-client": "0.1.0",
+            "phptars/tars-report": "0.1.0",
+            "phptars/tars-config": "0.1.0"
+        },
         "autoload": {
             "psr-4": {
                 "Tars\\": "src/"
