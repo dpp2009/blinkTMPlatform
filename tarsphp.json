@@ -170,7 +170,7 @@
         },
       "autoload": {
         "psr-4": {
-          "Tars\\Utils\\": "src/"
+          "Tars\\": "src/"
         }
       }
       }
