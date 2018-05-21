@@ -40,7 +40,9 @@
           "type": "zip"
         },
         "autoload": {
-            "classmap": ["Tars/deploy/"]
+            "psr-4":{ 
+              "Tars\\deploy\\": "src/"
+          }
         }
       }
     },
